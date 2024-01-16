@@ -1,0 +1,8 @@
+streamlit
+streamlit-option-menu
+watchdog
+openpyxl
+sqlalchemy
+pyodbc
+psycopg2-binary
+streamlit-aggrid

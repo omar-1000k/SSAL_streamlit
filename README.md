@@ -1,1 +1,1 @@
-# SSAL_streamlit
+# SSAL
